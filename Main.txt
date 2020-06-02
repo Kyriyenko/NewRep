@@ -1,6 +1,0 @@
-#include <iostram>
-
-using namespace std;
-
-new fix
-New clan dron
